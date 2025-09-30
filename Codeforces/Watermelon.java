@@ -14,8 +14,4 @@ public class Watermelon {
         }
     }
 
-    public static boolean canDivideWatermelon(int weight) {
-        return weight > 2 && weight % 2 == 0;
-    }   
-    
 }
