@@ -14,7 +14,7 @@ public class Way_Too_Long_Word {
                 System.out.println(str);
             }
             else{
-                System.out.println(str.charAt(0)+ (str.length()-2) + str.charAt(str.length()-1)x);
+                System.out.println("" + str.charAt(0) + (str.length()-2) + str.charAt(str.length()-1));
             }
         }
         sc.close();
